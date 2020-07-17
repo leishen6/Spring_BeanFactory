@@ -1,1 +1,0 @@
-本项目是简单实现一下Spring中BeanFactory实现原理。
